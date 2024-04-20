@@ -28,3 +28,28 @@ DESCRIPTION: The DESCRIPTION column provides a textual description or name corre
 SPDD_TYPE: The SPDD_TYPE column indicates the type or category of the medical condition. It may provide additional information about the classification or nature of the condition. Each row in the dataset represents a single patient’s record, capturing information about their PIN, CVR number, creation date, medical complaint, ICD code, de-scription, and condition type. The data is structured in a tabular format, with eachcolumn holding specific information related to the patient’s medical history and visit
 to the hospital.
 
+
+# Data Structure of Sample Data
+![data](https://github.com/alamfatima1999/medical-diagnosis/assets/71816449/a8c4b989-ea96-4f35-ad0a-b90d6bd87d43)
+
+# Data Treatement Flow
+![Data treatment flow](https://github.com/alamfatima1999/medical-diagnosis/assets/71816449/127f044e-d4c7-4f2b-a5df-6f411feb1fb6)
+
+
+# Fastext Model
+![Model-architecture-of-fastText-where-L-in-L1-represents-layer-and-O-in-O1-operation](https://github.com/alamfatima1999/medical-diagnosis/assets/71816449/74febd24-1923-4304-ae83-c3a09b6629c2)
+
+
+# CDSSM Model Architecture
+![CDSSM Architecture](https://github.com/alamfatima1999/medical-diagnosis/assets/71816449/01ce2472-fce8-47b3-a2c9-91d0a7a63435)
+
+
+# Flow of NLP Project
+![Flow of NLP Project drawio](https://github.com/alamfatima1999/medical-diagnosis/assets/71816449/22de6f91-4cae-4fe9-960e-02d71f86a4f0)
+
+
+
+
+
+
+
